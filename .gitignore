@@ -21,8 +21,7 @@ coverage
 !bundles
 !bundles/*
 !dist
-!dist/*
-!dist/database/*
+!dist/**/*
 issues
 /.vscode
 
